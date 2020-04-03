@@ -19,7 +19,7 @@ video-baseurl: https://www.youtube.com/embed/ # Absolute path where video folder
 subscribe-button-url: http://example.com/ 
 
 # If a Disqus shortname is provided here, a Disqus comment thread will be created for each video.
-disqus-shortname: 
+disqus-shortname: pofivido
 
 # If provided, Google Analytics tracking code will be added to every page on your site.
 # Your analytics id should be in the format "UA-XXXXXXXX-X".
